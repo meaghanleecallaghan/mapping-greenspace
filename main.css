@@ -21,3 +21,16 @@ iframe {
 #end{
 	font-size: 14px;
 }
+img {
+	float: right;
+	margin: 5px 5px 5px 5px;
+	width: 250px;
+	padding: 5px;
+}
+figcaption {
+	font-size: 12px;
+	float: right;
+	clear: right;
+	margin: 5px;
+	padding: 5px;
+}
